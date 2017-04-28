@@ -1,0 +1,5 @@
+Realm.KeyValueStorage/obj/
+packages/
+Realm.KeyValueStorage.Tests/obj/
+Realm.KeyValueStorage.Tests/bin/
+Realm.KeyValueStorage/bin/

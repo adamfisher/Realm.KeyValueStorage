@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <RootNamespace>Realms.KeyValueStorage</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Realm.KeyValueStorage.nuspec" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Realm" Version="1.2.0" />
+  </ItemGroup>
+
+</Project>

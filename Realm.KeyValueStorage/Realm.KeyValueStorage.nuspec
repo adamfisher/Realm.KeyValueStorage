@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Realm.KeyValueStorage</id>
+    <version>$version$</version>
+    <title>Realm.KeyValueStorage</title>
+    <authors>adamfisher</authors>
+    <owners>adamfisher</owners>
+	<developmentDependency>false</developmentDependency>
+    <licenseUrl>https://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>http://github.com/adamfisher/Realm.KeyValueStorage</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Create a key/value store using Realm to easily store one-off pieces of data. Realm is a mobile database: a replacement for SQLite and ORMs.</description>
+    <language>en-US</language>
+    <tags>Realm database db persistence key sqlite</tags>
+	<dependencies>
+      <group targetFramework="netstandard1.4">
+        <dependency id="Realm" version="1.2.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin/$Configuration$/netstandard1.4/Realm.KeyValueStorage.dll" target="lib/netstandard1.4" />
+  </files>
+</package>
