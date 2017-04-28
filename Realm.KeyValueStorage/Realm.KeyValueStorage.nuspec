@@ -8,8 +8,8 @@
     <owners>adamfisher</owners>
 	<developmentDependency>false</developmentDependency>
     <licenseUrl>https://opensource.org/licenses/Apache-2.0</licenseUrl>
-    <projectUrl>http://github.com/adamfisher/Realm.KeyValueStorage</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <projectUrl>https://github.com/adamfisher/Realm.KeyValueStorage</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/adamfisher/Realm.KeyValueStorage/master/graphics/realm-kv-logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Create a key/value store using Realm to easily store one-off pieces of data. Realm is a mobile database: a replacement for SQLite and ORMs.</description>
     <language>en-US</language>
