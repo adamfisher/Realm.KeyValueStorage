@@ -1,4 +1,4 @@
-![Realm](https://github.com/adamfisher/realm-dotnet-keyvaluestorage/raw/master/realm-logo.png)
+![Realm](https://github.com/adamfisher/Realm.KeyValueStorage/blob/master/graphics/realm-logo.png?raw=true)
 
 Realm is a mobile database that runs directly inside phones, tablets or wearables.
 
