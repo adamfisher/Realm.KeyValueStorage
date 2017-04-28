@@ -10,6 +10,8 @@ This library extends the Realm mobile database to provide convenient key/value b
 
 ## Getting Started
 
+[![](https://raw.githubusercontent.com/pixel-cookers/built-with-badges/master/nuget/nuget-long.png)](https://www.nuget.org/packages/Realm.KeyValueStorage)
+
 This library is a lightweight wrapper around Realm so be sure to check out the official [Realm .NET repository](https://github.com/realm/realm-dotnet) for documentation and examples on advanced querying and usage of Realm.
 
 ```csharp
